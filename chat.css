@@ -1,0 +1,22 @@
+body {
+  padding: 120px;
+  background-color: #F5F5F5
+}
+
+.positionC {
+  margin-top: -70px
+}
+
+.positionB {
+  margin-top: 103px;
+  margin-left: 20px
+}
+
+h6 {
+  margin-top: 20px
+}
+
+/* break-word break a fine riga ad esaurimento dello spazio nel div */
+.break {
+  word-wrap: break-word
+}

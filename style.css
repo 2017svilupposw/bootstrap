@@ -1,0 +1,11 @@
+body {
+  padding: 20px
+}
+
+h1, p {
+  margin: 15px
+}
+
+span {
+  color: orange
+}
